@@ -1,0 +1,45 @@
+body {
+  background: url(images/vBbni9.jpg);
+  image-rendering: -webkit-optimize-contrast;
+  
+  font-family: "Zen Antique Soft", serif;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  background-repeat: no-repeat;
+}
+
+button {
+  color: hsl(147, 98%, 22%);
+  width: 15rem;
+  height: 3rem;
+  background: goldenrod;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-weight: bold;
+  /* font-family: "Zen Antique Soft", serif; */
+  border: none;
+  border-radius: 2px;
+  font-size: 1.6rem;
+  margin-bottom: -1rem;
+}
+
+p {
+  font-size: 2rem;
+}
+
+h1 {
+  color: goldenrod;
+  text-align: center;
+  font-size: 4rem;
+}
+
+#centered_body {
+  margin: auto;
+  margin-top: 12vh;
+  width: 50%;
+}
+
+#message-el {
+  font-style: italic;
+}
